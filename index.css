@@ -21,7 +21,9 @@ header {
     padding: 20px;
     border-radius: 10px 10px 0 0;
 }
-
+.gallery{
+    background-image:cover;
+}
 .message-section,
 .gallery-section,
 .quotes-section,
